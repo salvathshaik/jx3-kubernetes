@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: "jx3test.io" #any name
+    domain: jx3test.io #any name
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
